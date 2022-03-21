@@ -1,8 +1,3 @@
-
-
-// NEED TO MAKE DOCUMENTATION
-
-
 package application;
 	
 import static java.util.stream.Collectors.toMap;
